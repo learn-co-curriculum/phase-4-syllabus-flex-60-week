@@ -29,11 +29,11 @@ conventions, like REST, that are common in the world of API development.
 **Total Assignments: (23)**
 
 - Phase 4 Overview (1)
-- Rails Fundamentals (11)
+- Rails Fundamentals (19)
   - ⭐️ Rails Fundamentals Quiz
-- CRUD with Rails (11)
+- CRUD with Rails (19)
   - ⭐️ Putting it All Together: Rails CRUD
-- Validations (5)
+- Validations (7)
   - ⭐️ Validations Quiz
 
 ## Week 40 - 42
@@ -46,13 +46,13 @@ from the server to make it easier to work with on the frontend.
 
 **Total Assignments: (23)**
 
-- Client-Server Communication (5)
+- Client-Server Communication (10)
   - ⭐️ Putting it All Together: Client-Server Communication
-- Active Record Associations (8)
+- Active Record Associations (9)
   - ⭐️ Active Record Associations Quiz
-- Serialization (4)
-  - ⭐️ Serialization Quiz
-- Additional Practice (1)
+- Serialization (6)
+  - ⭐️ Active Model Serializer Quiz
+- Additional Practice (4)
   - ⭐️ Rails Mock Challenge - Camping Fun
 
 ## Week 43 - 45
@@ -72,9 +72,9 @@ your final project.
 
 **Total Assignments: (15)**
 
-- Auth (11)
+- Auth (18)
   - ⭐️ Putting it All Together: Auth
-- Deploying (4)
+- Deploying (6)
   - ⭐️ Deploying Quiz
 
 ## Week 46 - 48
