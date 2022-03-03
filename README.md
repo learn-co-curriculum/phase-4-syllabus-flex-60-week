@@ -51,9 +51,9 @@ from the server to make it easier to work with on the frontend.
 - Active Record Associations (9)
   - ⭐️ Active Record Associations Quiz
 - Serialization (6)
-  - ⭐️ Active Model Serializer Quiz
+  - ⭐️ Active Model Serializer Lab
 - Additional Practice (4)
-  - ⭐️ Rails Mock Challenge - Camping Fun
+  - ⭐️ Rails Mock Challenge - Gym
 
 ## Week 43 - 45
 
@@ -75,7 +75,7 @@ your final project.
 - Auth (18)
   - ⭐️ Putting it All Together: Auth
 - Deploying (6)
-  - ⭐️ Deploying Quiz
+  - ⭐️ Deploying A Rails-React App to Heroku
 
 ## Week 46 - 48
 
