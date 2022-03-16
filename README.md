@@ -53,7 +53,7 @@ from the server to make it easier to work with on the frontend.
 - Serialization (6)
   - ⭐️ Active Model Serializer Lab
 - Additional Practice (4)
-  - ⭐️ Rails Mock Challenge - Gym
+  - ⭐️ Rails Practice Challenge - Gym
 
 ## Week 43 - 45
 
