@@ -52,7 +52,7 @@ from the server to make it easier to work with on the frontend.
   - ⭐️ Active Record Associations Quiz
 - Serialization (6)
   - ⭐️ Active Model Serializer Lab
-- Additional Practice (4)
+- Applying Your Learning (4)
   - ⭐️ Rails Practice Challenge - Gym
 
 ## Week 43 - 45
