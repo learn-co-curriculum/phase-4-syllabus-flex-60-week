@@ -39,7 +39,7 @@ conventions, like REST, that are common in the world of API development.
 ## Week 40 - 42
 
 Once you've gained some familiarity with Rails, it's time to start adding some
-more complexity. You learn some best practices for communicating between the
+more complexity. You'll learn some best practices for communicating between the
 frontend and the backend. You'll also learn how to work with more complex
 domains involving multiple related models, and how to structure the response
 from the server to make it easier to work with on the frontend.
@@ -61,7 +61,7 @@ The last key concepts from this phase are learning how to **authenticate** and
 **authorize** users in your application, and how to **deploy** your application
 for the world to see! You'll learn some more of the core technology that makes
 the web work, like cookies, and best practices for working with sensitive data
-like passwords. You'll also learn how hosting services like Heroku can be used
+like passwords. You'll also learn how hosting services like Render can be used
 to deploy your application.
 
 **Note**: If you're moving through this material quickly and want an extra
@@ -75,7 +75,7 @@ your final project.
 - Auth (18)
   - ⭐️ Putting it All Together: Auth
 - Deploying (6)
-  - ⭐️ Deploying A Rails-React App to Heroku
+  - ⭐️ Deploying A Rails-React App to Render
 
 ## Week 46 - 48
 
